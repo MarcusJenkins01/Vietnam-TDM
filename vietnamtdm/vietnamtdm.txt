@@ -1,0 +1,13 @@
+"vietnamtdm"
+{
+	"base"		"sandbox"
+	"title"		"Vietnam TDM"
+	"maps"		"^vtdm"
+	"category"	"pvp"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		
+	}
+}

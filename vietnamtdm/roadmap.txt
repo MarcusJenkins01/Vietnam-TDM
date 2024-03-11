@@ -1,0 +1,63 @@
+Priority 1 = highest, 3 = lowest
+
+Base Gamemode
+  --> Give loadouts - Completion 100%
+  --> Set up team system - Completion 100%
+  --> Override playermodel selection - Completion 100%
+  --> Implement player permissions - Completion 100%
+
+Rule Systems
+  --> Spawn protection
+  --> Anti team kill
+  
+Admin System
+  --> Utility commands - Completion 100%
+  --> Noclip
+  --> Physgun permissions
+
+Weapons
+  --> Base
+    --> ArcCW custom - Completion 100%
+    --> Weapon damage system - Completion 100%
+  --> Rifles (priority 1) - Completion 50%
+  --> SMGs (priority 1)
+  --> Pistols (priority 1) - Completion 50%
+  --> Shotguns (priority 2) - Completion 66%
+  --> Snipers (priority 1)
+  --> Explosive grenades (priority 2)
+  --> Smoke grenades (priority 3)
+  --> Melee (priority 2)
+
+Menus
+  --> Team selection - Completion 100%
+  --> Loadout system
+    --> Select primary - Completion 100%
+    --> Select secondary - Completion 100%
+    --> Level unlock - Completion 100%
+    --> Attachments (priority 2)
+    --> Charms (priority 3)
+  --> Spawn selection menu (priority 2)
+  --> Prestige perks (priority 2)
+  --> Edit player model appearance (priority 2)
+  --> Options menu
+	--> WAC options
+	--> Weapon base options
+	--> Optimisation
+	  --> Multicore rendering
+
+Helicopters
+  --> Port models and materials - Completion 100%
+  --> Helicopters to have
+    --> Huey (priority 1)
+    --> Little bird (priority 2)
+    --> Cobra (priority 1)
+    --> Chinook (priority 3)
+
+Level system
+  --> Level number (priority 1) - Completion 100%
+  --> Level rank/title (priority 2) - (easy to add to current system)
+
+Map
+  --> Map switching
+  --> Ported from BTK Vietnam - Completion 90% (just needs to compile)
+

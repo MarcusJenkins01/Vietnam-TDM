@@ -1,4 +1,4 @@
-Originally developed for Golden Grizzly Servers, it remains somewhat incomplete.
+Originally developed for Golden Grizzly Servers.
 
 The current systems implemented are:
 - Fully custom GUI library, which replaces the default GUI elements for Garry's Mod with more stylish ones
